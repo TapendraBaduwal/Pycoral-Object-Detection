@@ -1,6 +1,6 @@
 # Pycoral-Object-Detection
 
-##Single Shot Detector Algorithm based
+# Single Shot Detector Algorithm based
 
 Build Pycoral object detection module built on top of TensorFlow Lite Python API.
 
