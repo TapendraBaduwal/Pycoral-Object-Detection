@@ -1,7 +1,14 @@
 # Pycoral-Object-Detection
+
+#Single Shot Detector Algorithm based
+
 Build Pycoral object detection module built on top of TensorFlow Lite Python API.
 
 The use of Coral USB Accelerator, Depth Camera D415 is carried out to accomplish this task.
 
 
-###### Single Shot Detector Algorithm #########
+
+
+
+![gif](https://github.com/TapendraBaduwal/Pycoral-Object-Detection/blob/master/Object_detection.gif)
+
